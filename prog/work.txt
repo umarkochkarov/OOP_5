@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf8'?>
+<workers><worker><name>Kochkarov U.A.</name><post>Student</post><year>2020</year></worker><worker><name>Ivanov.i.i</name><post>Manager</post><year>2012</year></worker></workers>
